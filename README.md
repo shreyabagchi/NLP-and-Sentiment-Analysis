@@ -1,3 +1,3 @@
 # NLP-and-Sentiment-Analysis
-Market Research using NLP and Sentiment Analysis
-This project aims at analysing the product reviews of a company using NLP and Sentiment analysis.
+
+This project aims at market research of the different products of a healthcare-based company using the customer reviews and ratings from different social media platforms. This project uses NLP and Sentiment analysis.
